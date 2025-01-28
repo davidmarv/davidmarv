@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @davidmarv
-- 👀 I’m interested in expanding my knowledge of different languages
-- 🌱 I’m currently learning C and C++
+This page is is mostly random projects that I have worked on/am working on
 
 
 <!---
